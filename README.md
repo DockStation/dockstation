@@ -1,7 +1,7 @@
-# Develop with Docker has never been so easy and convenient
+# Developing with Docker has never been so easy and convenient
 
 ## Product
-DockStation is developer-centric application for manage projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
+DockStation is developer-centric application for managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 
 ## Download
 [Download from GitHub](https://github.com/DockStation/dockstation/releases)
