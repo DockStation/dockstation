@@ -18,7 +18,7 @@ v1.3.0. Released: 5 Sept. 2017
 | OS version             | OS X El Capitan 10.11 | Ubuntu 14.04 LTS or 16.04 LTS <br /> CentOS 7.1/7.2 <br /> SUSE Linux Enterprise 12 | Windows 10 Pro (64bit) |
 | Additional             |                       |                                                                                     | * (optional) Microsoft Hyper-V      |
 
-## Requirenments for working with Docker Machine (any one of option)
+## Requirements for working with Docker Machine (any one of option)
 
 | macOS            | Linux            | Windows           |
 | -----------------|------------------|-------------------|
