@@ -7,7 +7,7 @@ DockStation is a developer-centric application for managing projects based on Do
 [Download from GitHub](https://github.com/DockStation/dockstation/releases)
 
 ## Latest version
-v1.4.1. Released: 29 Mar. 2018 
+v1.5.0. Released: 1 Apr. 2019 
 
 ## Minimal system requirement
 
@@ -63,24 +63,25 @@ We have a built-in parser that will helps, without any problems and deep knowled
 
 ## Screenshots
 
-![alt text](https://dockstation.io/images/screen_1.png?v=1.4.0 "Screen #1")
-![alt text](https://dockstation.io/images/screen_3.png?v=1.4.0 "Screen #2")
-![alt text](https://dockstation.io/images/screen_4.png?v=1.4.0 "Screen #3")
-![alt text](https://dockstation.io/images/screen_7.png?v=1.4.0 "Screen #4")
-![alt text](https://dockstation.io/images/screen_5.png?v=1.4.0 "Screen #5")
-![alt text](https://dockstation.io/images/screen_8.png?v=1.4.0 "Screen #6")
-![alt text](https://dockstation.io/images/screen_9.png?v=1.4.0 "Screen #7")
-![alt text](https://dockstation.io/images/screen_6.png?v=1.4.0 "Screen #8")
-![alt text](https://dockstation.io/images/screen_1.3_1.png?v=1.4.0 "Screen #10")
-![alt text](https://dockstation.io/images/screen_1.3_2.png?v=1.4.0 "Screen #11")
-![alt text](https://dockstation.io/images/screen_1.3_3.png?v=1.4.0 "Screen #12")
-![alt text](https://dockstation.io/images/screen_1.3_4.png?v=1.4.0 "Screen #13")
-![alt text](https://dockstation.io/images/screen_1.3_5.png?v=1.4.0 "Screen #14")
-![alt text](https://dockstation.io/images/screen_1.3_6.png?v=1.4.0 "Screen #15")
-![alt text](https://dockstation.io/images/screen_1.3_7.png?v=1.4.0 "Screen #16")
-![alt text](https://dockstation.io/images/screen_1.3_8.png?v=1.4.0 "Screen #17")
-![alt text](https://dockstation.io/images/screen_1.3_9.png?v=1.4.0 "Screen #18")
-![alt text](https://dockstation.io/images/screen_10.png?v=1.4.0 "Screen #19")
-![alt text](https://dockstation.io/images/screen_1.4_0.png?v=1.4.0 "Screen #20")
-![alt text](https://dockstation.io/images/screen_10.png?v=1.4.0 "Screen #21")
-![alt text](https://dockstation.io/images/screen_12.png?v=1.4.0 "Screen #22")
+![alt text](https://dockstation.io/images/screenshots/1.png?v=1.5.0 "Screen #1")
+![alt text](https://dockstation.io/images/screenshots/2.png?v=1.5.0 "Screen #2")
+![alt text](https://dockstation.io/images/screenshots/3.png?v=1.5.0 "Screen #3")
+![alt text](https://dockstation.io/images/screenshots/4.png?v=1.5.0 "Screen #4")
+![alt text](https://dockstation.io/images/screenshots/5.png?v=1.5.0 "Screen #5")
+![alt text](https://dockstation.io/images/screenshots/6.png?v=1.5.0 "Screen #6")
+![alt text](https://dockstation.io/images/screenshots/7.png?v=1.5.0 "Screen #7")
+![alt text](https://dockstation.io/images/screenshots/8.png?v=1.5.0 "Screen #8")
+![alt text](https://dockstation.io/images/screenshots/22.png?v=1.5.0 "Screen #22")
+![alt text](https://dockstation.io/images/screenshots/9.png?v=1.5.0 "Screen #9")
+![alt text](https://dockstation.io/images/screenshots/10.png?v=1.5.0 "Screen #10")
+![alt text](https://dockstation.io/images/screenshots/11.png?v=1.5.0 "Screen #11")
+![alt text](https://dockstation.io/images/screenshots/12.png?v=1.5.0 "Screen #12")
+![alt text](https://dockstation.io/images/screenshots/13.png?v=1.5.0 "Screen #13")
+![alt text](https://dockstation.io/images/screenshots/14.png?v=1.5.0 "Screen #14")
+![alt text](https://dockstation.io/images/screenshots/15.png?v=1.5.0 "Screen #15")
+![alt text](https://dockstation.io/images/screenshots/16.png?v=1.5.0 "Screen #16")
+![alt text](https://dockstation.io/images/screenshots/17.png?v=1.5.0 "Screen #17")
+![alt text](https://dockstation.io/images/screenshots/18.png?v=1.5.0 "Screen #18")
+![alt text](https://dockstation.io/images/screenshots/19.png?v=1.5.0 "Screen #19")
+![alt text](https://dockstation.io/images/screenshots/20.png?v=1.5.0 "Screen #20")
+![alt text](https://dockstation.io/images/screenshots/21.png?v=1.5.0 "Screen #21")
