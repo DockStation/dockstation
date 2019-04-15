@@ -7,7 +7,7 @@ DockStation is a developer-centric application for managing projects based on Do
 [Download from GitHub](https://github.com/DockStation/dockstation/releases)
 
 ## Latest version
-v1.5.0. Released: 1 Apr. 2019 
+v1.5.1. Released: 15 Apr. 2019 
 
 ## Minimal system requirement
 
