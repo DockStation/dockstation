@@ -15,7 +15,7 @@ v1.5.1. Released: 15 Apr. 2019
 | ---------------------- |-----------------------|-------------------------------------------------------------------------------------|------------------------|
 | Docker version         | v1.12.0+              | v1.10.0+                                                                            | v1.12.0+               |
 | Docker Compose version | v1.6.0+               | v1.6.0+                                                                             | v1.6.0+                |
-| OS version             | OS X El Capitan 10.11 | Ubuntu 14.04 LTS or 16.04 LTS <br /> CentOS 7.1/7.2 <br /> SUSE Linux Enterprise 12 | Windows 10 Pro (64bit) |
+| OS version             | OS X El Capitan 10.11 | Ubuntu 14.04 LTS or 16.04 LTS <br /> CentOS 7.1/7.2 <br /> SUSE Linux Enterprise 12 | Windows 10 (64bit) Pro or Home (with WSL2 backend support) |
 | Additional             |                       |                                                                                     | * (optional) Microsoft Hyper-V      |
 
 ## Requirements for working with Docker Machine (any one of option)
